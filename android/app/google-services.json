@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "941918537280",
+    "firebase_url": "https://groupr-2b60e.firebaseio.com",
+    "project_id": "groupr-2b60e",
+    "storage_bucket": "groupr-2b60e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941918537280:android:7353e200a8da7aec6681a5",
+        "android_client_info": {
+          "package_name": "com.example.groupr_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941918537280-9nvbk69lmvsekkfqg33ov0kpivq1469g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_RkaUKBn8PvvVU-Ri3xfZ09xYr5gpvU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941918537280-9nvbk69lmvsekkfqg33ov0kpivq1469g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941918537280-1pjunkf1eiai8ufmi1ufstnff9uu1m2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.grouprApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941918537280:android:68213909275750ba6681a5",
+        "android_client_info": {
+          "package_name": "com.group14.groupr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941918537280-9nvbk69lmvsekkfqg33ov0kpivq1469g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_RkaUKBn8PvvVU-Ri3xfZ09xYr5gpvU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941918537280-9nvbk69lmvsekkfqg33ov0kpivq1469g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941918537280-1pjunkf1eiai8ufmi1ufstnff9uu1m2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.grouprApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
